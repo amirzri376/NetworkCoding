@@ -1,1 +1,1 @@
-code example of how to compute average decoding delay using sparse random linear network coding. The implementation is based on the paper "Partial Decoding Delay of Sparse Network Coding" published by IEEE Communications Letters 2018
+C++ code example of how to compute average decoding delay using sparse random linear network coding. The implementation is based on the paper "Partial Decoding Delay of Sparse Network Coding" published by IEEE Communications Letters in 2018
